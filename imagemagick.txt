@@ -1,0 +1,10 @@
+
+#### Extraction png de gif
+Extraire gif : décomposer par fichier
+convert image_animee.gif sorties_numerotees.jpg
+
+essayer : 
+convert hypo_hypotrochoid_001.gif -coalesce animate_%d.eps
+
+
+#### 
